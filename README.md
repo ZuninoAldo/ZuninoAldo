@@ -1,10 +1,15 @@
 
 # 💫 Sobre Mi:
 🔭 Actualmente me encuentro trabajando en "Pablo Service"
+
 🌱 Actualmente me encuentro aprendiendo; HTML5, CSS3, JavaScript, Whimsical, Figma, Flexbox, Grids, BEM, Bootstrap, Tailwind, GIT, GitHub, SASS, MySQL, SQLite, Seo.
+
 👨‍💻 La gran mayoría de mis proyectos van a estar disponibles en: https://github.com/ZuninoAldo
+
 📫 Mi mail para contacto es: zunino.aldo@gmail.com
+
 ⚡ Usualmente suelo ser: proactivo, cooperador, divertido, apasionado, perseverante, paciente, entre otras cosas.
+
 
 
 ## 🌐 Encontrame en:
