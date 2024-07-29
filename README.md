@@ -1,12 +1,15 @@
+<h1 align="center">Hola 🖖🏽, Soy Aldo Zunino</h1>
+<h3 align="center">Un Desarrollador Web Trainee de Argentina</h3>
 
 # 💫 Sobre Mi:
+
 🔭 Actualmente me encuentro trabajando en "Pablo Service"
 
-🌱 Actualmente me encuentro aprendiendo; HTML5, CSS3, JavaScript, Whimsical, Figma, Flexbox, Grids, BEM, Bootstrap, Tailwind, GIT, GitHub, SASS, MySQL, SQLite, Seo.
-
-👨‍💻 La gran mayoría de mis proyectos van a estar disponibles en: https://github.com/ZuninoAldo
+🌱 Me encuentro aprendiendo sobre: HTML5, CSS3, JavaScript, Whimsical, Figma, Flexbox, Grids, BEM, Bootstrap, Tailwind, GIT, GitHub, SASS, MySQL, SQLite, Seo.
 
 📫 Mi mail para contacto es: zunino.aldo@gmail.com
+
+👨‍💻 La gran mayoría de mis proyectos van a estar disponibles en: https://github.com/ZuninoAldo
 
 ⚡ Usualmente suelo ser: proactivo, cooperador, divertido, apasionado, perseverante, paciente, entre otras cosas.
 
