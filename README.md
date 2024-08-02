@@ -1,5 +1,5 @@
 <h1 align="center">Hola 🖖🏽, Soy Aldo Zunino</h1>
-<h3 align="center">Un Desarrollador Web Trainee de Argentina</h3>
+<h3 align="center">Un Desarrollador Backend Trainee de Argentina</h3>
 
 # 💫 Sobre Mi:
 
