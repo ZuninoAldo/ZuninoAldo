@@ -1,9 +1,9 @@
 <h1 align="center">Hola 🖖🏽, Soy Aldo Zunino</h1>
-<h3 align="center">Un Desarrollador Backend Trainee de Argentina</h3>
+<h3 align="center">Un Desarrollador Full Stack Trainee de Argentina</h3>
 
 # 💫 Sobre Mi:
 
-🔭 Actualmente me encuentro trabajando en "Pablo Service"
+🔭 Actualmente me encuentro trabajando de manera Freelance.
 
 🌱 Me encuentro aprendiendo sobre: HTML5, CSS3, JavaScript, Whimsical, Figma, Flexbox, Grids, BEM, Bootstrap, Tailwind, GIT, GitHub, SASS, MySQL, SQLite, Seo.
 
