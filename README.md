@@ -5,7 +5,7 @@
 
 🔭 Actualmente me encuentro trabajando de manera Freelance.
 
-🌱 Me encuentro aprendiendo sobre: HTML5, CSS3, JavaScript, Whimsical, Figma, Flexbox, Grids, BEM, Bootstrap, Tailwind, GIT, GitHub, SASS, MySQL, SQLite, Seo.
+🌱 Me encuentro aprendiendo sobre: HTML5, CSS3, JavaScript, NodeJS, React, Angular, Whimsical, Figma, Bootstrap, Tailwind, GIT, GitHub, SASS, MySQL, SQLite, Seo.
 
 📫 Mi mail para contacto es: zunino.aldo@gmail.com
 
